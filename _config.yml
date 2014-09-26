@@ -1,3 +1,6 @@
 permalink: /:title
 post_dirs: false
 relative_permalinks: true
+markdown: kramdown
+gems:
+  - jekyll-sitemap
