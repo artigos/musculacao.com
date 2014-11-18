@@ -137,14 +137,19 @@ section h2 {
 }
 
 section ul.index {
-  list-style: none;
+  /*list-style: none;*/
   margin: 0;
   padding: 0;
 }
 
 section ul.index li {
-  display: block;
+  /*display: block;*/
   font-size: 22px;
+}
+
+section ul.index li a {
+  display: block;
+  font-size: 16px;
 }
 
 section ul.index li a:hover{
