@@ -6,8 +6,6 @@ categories: articles
 
 #{{ page.title }}
 
-#Mitos comuns sobre musculação e a verdade
- 
 ##Mito: A dor muscular resultante do exercício físico é o que provoca hipertrofia muscular.
  
 Dor muscular: O que provoca a hipertrofia muscular são as HORMONAS, e a produção das hormonas corretas para o crescimento muscular depende da globalidade do seu estilo de vida enquanto fisiculturista, incluindo alimentação adequada e exercício contínuos. A dor muscular NÃO é um indicador de que os músculos estão a desenvolver-se, mas sim um indicador de que têm capacidade para se desenvolver e reparar para se adaptarem à tensão que lhes foi aplicada, e, mais uma vez, isto só pode vir de hormonas próprias, se seguir os artigos publicados neste site não deve ter dificuldade em ganhar músculo e perder gordura. A dor muscular é normal, especialmente se não tiver trabalhado um grupo de músculos particular durante algum tempo. Para além disso, a dor muscular não deve ser uma preocupação, pode ficar mais forte sem sequer sentir dor.
