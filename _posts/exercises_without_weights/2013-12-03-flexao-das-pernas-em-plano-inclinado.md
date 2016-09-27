@@ -5,9 +5,9 @@ permalink: /flexao-das-pernas-em-plano-inclinado.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos abdominais inferiores.
+## Tonificam principalmente os músculos abdominais inferiores.
 
 * colocar-se deitado de costas sobre um plano inclinado, com um ângulo de 20° a 30°, e com a cabeça na parte mais elevada; segurar-se a uma barra colocada por cima da cabeça;
 

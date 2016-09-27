@@ -5,9 +5,9 @@ permalink: /exercicio-elevacao-anterior-de-pesos.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonifica os músculos das pernas, do tronco e, principalmente, da cintura escapular.
+## Tonifica os músculos das pernas, do tronco e, principalmente, da cintura escapular.
 
 * colocar-se de pé, com os pés à largura dos ombros e segurar com as duas mãos um peso de 3 a 5 kg;
 

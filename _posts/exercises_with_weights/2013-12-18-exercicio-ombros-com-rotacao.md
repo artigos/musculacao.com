@@ -5,9 +5,9 @@ permalink: /exercicio-ombros-com-rotacao.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São exercícios que estimulam os músculos deltóides, os supra­espinhosos e a parte superior dos trapézios.
+## São exercícios que estimulam os músculos deltóides, os supra­espinhosos e a parte superior dos trapézios.
 
 * colocar-se de pé com os pés ligeiramente separados e segurar dois pequenos halteres, colocados à altura dos ombros, e com as palmas das mãos viradas para dentro;
 

@@ -5,9 +5,9 @@ permalink: /abertura-dos-ombros.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos abdutores do ombro (músculo delt6ide e músculos da coifa dos rotadores).
+## Tonificam principalmente os músculos abdutores do ombro (músculo delt6ide e músculos da coifa dos rotadores).
 
 * colocar-se de pé com os braços esticados ao longo do corpo e palmas das mãos viradas para dentro; um elemento auxiliar situa-se atrás e coloca as suas mãos no terço inferior dos antebraços do executante;
 

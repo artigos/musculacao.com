@@ -5,7 +5,7 @@ permalink: /exercicio-exercicio-para-o-torax-superior.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 * Deitar-se num banco ligeiramente inclinado, segurar um peso em cada mão com os braços estendidos e verticalmente colocados; manter as palmas das mãos viradas para a frente;
 

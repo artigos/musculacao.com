@@ -5,9 +5,9 @@ permalink: /torcoes-do-tronco-deitado.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos abdominais e lombares;
+## Tonificam principalmente os músculos abdominais e lombares;
 
 * deitar-se de costas com os braços esticados lateralmente, formando um ângulo de 90° com o tronco; elevar os membros do solo até um ân­gulo de 90° de flexão da anca, sempre com eles estendidos;
 

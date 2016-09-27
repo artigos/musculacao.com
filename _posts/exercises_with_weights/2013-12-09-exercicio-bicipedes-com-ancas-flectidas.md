@@ -5,9 +5,9 @@ permalink: /exercicio-bicipedes-com-ancas-flectidas.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Este exercício é destinado aos músculos bicípedes, braquial e braquio-radial, situados na face anterior do braço e responsáveis pela flexão do cotovelo.
+## Este exercício é destinado aos músculos bicípedes, braquial e braquio-radial, situados na face anterior do braço e responsáveis pela flexão do cotovelo.
 
 * partindo da posição de pé, flectir as ancas ligeiramente, manter as costas direitas e segurar com a mão direita um peso; colocar a mão esquerda sobre o respectivo joelho;
 

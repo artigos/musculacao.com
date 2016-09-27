@@ -5,9 +5,9 @@ permalink: /abdominais.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Deitar-se no chão, com os joelhos e as ancas flectidas para isolar os músculos abdominais e neutralizar a acção dos músculos flexores da anca.
+## Deitar-se no chão, com os joelhos e as ancas flectidas para isolar os músculos abdominais e neutralizar a acção dos músculos flexores da anca.
 
 * enrolar-se lentamente e elevar-se quando se sentir os músculos contraídos;
 

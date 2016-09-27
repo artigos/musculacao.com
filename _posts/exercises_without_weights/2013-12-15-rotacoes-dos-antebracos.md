@@ -5,9 +5,9 @@ permalink: /rotacoes-dos-antebracos.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos dos antebraços, como também os músculos deltóides nos ombros
+## Tonificam principalmente os músculos dos antebraços, como também os músculos deltóides nos ombros
 
 * colocar-se de pé com os braços lateral e perpendicularmente ao tronco e com as mãos abertas;
 

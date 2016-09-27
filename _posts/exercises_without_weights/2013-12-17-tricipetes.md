@@ -5,9 +5,9 @@ permalink: /tricipetes.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Para além de estimular os músculos tricípetes colocados na face. posterior dos braços, também estimulam os músculos peitorais e deltóides
+## Para além de estimular os músculos tricípetes colocados na face. posterior dos braços, também estimulam os músculos peitorais e deltóides
 
 ![Tricípetes](assets/tricipetes.gif)
 

@@ -5,9 +5,9 @@ permalink: /estrutura-do-musculo-esqueletico.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O músculo esquelético é formado por células compridas, com numerosos núcleos na periferia, chamadas fibras musculares, com 80 a 100 micrómetro de diâmetro cada.
+## O músculo esquelético é formado por células compridas, com numerosos núcleos na periferia, chamadas fibras musculares, com 80 a 100 micrómetro de diâmetro cada.
 
 Elas inserem-se nos tendões através da camada mais externa da membrana celular, ou sarcolema, a qual é constituída por fibrilas de colagénio. Todo o músculo é envolvido por uma bainha de tecido conjuntivo, o epimísio.
 

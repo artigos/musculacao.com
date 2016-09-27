@@ -5,7 +5,7 @@ permalink: /tipos-de-fibras-musculares.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A classificação das fibras musculares faz-se de acordo com o metabolismo energético dominante, da velocidade de contracção e da sua coloração histoquímica, a qual depende das actividadesenzimáticas.
 

@@ -5,7 +5,7 @@ permalink: /tipos-de-contraccoes-musculares.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Um potencial de acção conduzido ao longo de um nervo chega à placa motora, na qual é libertado um neurotransmissor, a acetilcolina. Esta vai atingir o sarcolema, que é a membrana plasmática da célula muscular, e nele desencadear, e de seguida propagar, um potencial de acção. Acontece então a despolarização da membrana que origina a saída de potássio e a entrada de sódio para o compartimento intracelular. Isto acontece porque o sarcolema contém canais de sódio dependentes da voltagem, que se abrem quanto há uma corrente positiva na fibra mus­cular. Há assim uma inversão de polaridade, passando de um potencial de cerca de - 85m V para cerca de + 50m V. O potencial de acção dura 2 a 3m/seg e é conduzido ao longo da membrana a cerca de 5m/seg.
 
@@ -15,7 +15,7 @@ A presença de cálcio no citoplasma é de primordial importância para a contra
 
 Da sobreposição entre todos os filamentos finos e grossos de um sarcómero, resulta o encurtamento do mesmo. A contracção muscular resulta simplesmente do encurtamento simultâneo de todos os sarcómeros de todas as fibras musculares que foram activadas sob um controlo voluntário dependente do sistema nervoso central. Mas o encurtamento global dos sarcómeros poderá não levar obrigatoriamente, e como veremos, a uma diminuição do comprimento muscular, e isto devido à existência de elementos elásticos e viscosos colocados em série com o aparelho contráctil. As contracções musculares dependem da quantidade de resistência que o músculo tem de vencer e da velocidade do movimento.
 
-##Contracção muscular isométrica
+## Contracção muscular isométrica
 
 Este tipo de contracção caracteriza-se pelo facto de o comprimento total do músculo permanecer constante durante a contracção. Há sim, e necessariamente, encurtamento dos sarc6meros, com alongamento pro­porcional do tendão e dos componentes elásticos colocados em série. Dado que não há movimento neste tipo de contracção o trabalho realizado é igual a zero (trabalho = força X distância percorrida). É um tipo de contracção em que a carga ou resistência é igual à força aplicada, tendo como resultado final uma velocidade de movimento igual a zero. É importante notar que neste tipo de contracção os ganhos de força apenas acontecem para valores angulares próximos do ângulo articular em que a contracção isométrica se realiza.
 
@@ -27,7 +27,7 @@ Os músculos fixadores qu estabilizadores articulares adoptam também este tipo 
 
 Para além de obstruírem o fluxo sanguíneo para o músculo em causa quando a contracção é demasiado intensa, as contracções isométricas originam a elevação da tensão arterial, sistólica e diastólica, sobrecarregando o coração em termos de pressão. A manobra de Valsalva é outra das situações que poderá surgir aquando da realização de exercícios isométricos, a qual tem influência no retomo venoso para o coração, diminuindo-o.
 
-##Contracção muscular isotónica
+## Contracção muscular isotónica
 
 Por definição, este tipo de contracção acontece contra uma carga constante, sem variação da tensão muscular, de que resulta uma alteração da localização das extremidades do músculo. Associada à alteração do comprimento do sarcómero, há também alteração do comprimento muscular. Trata-se de um tipo de contracção que apenas existe no modelo teórico, pois na vida prática as contracções acontecem com modificação do comprimento do músculo e da tensão muscular desenvolvida no seu interior.
 

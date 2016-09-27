@@ -5,9 +5,9 @@ permalink: /adutores-de-pe.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os músculos adutores situam-se na face interna da raiz da coxa e têm como função aproximar as coxas da linha média.
+## Os músculos adutores situam-se na face interna da raiz da coxa e têm como função aproximar as coxas da linha média.
 
 * colocar-se de pé, com os pés separados à largura dos ombros e colocar um objecto (uma bola, por exemplo) entre as coxas, destinado a contrariar a acção destes músculos;
 

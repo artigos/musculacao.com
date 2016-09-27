@@ -4,9 +4,9 @@ title: Sou mulher, vou ganhar músculo?
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Sim, mas não a quantidade que imagina.
+## Sim, mas não a quantidade que imagina.
 
 A pergunta que muitas mulheres colocam à prática de musculação é se irão ou não ganhar músculo. Isto é de facto um mito, e não se precisa de preocupar. O ganho de massa muscular é directamente proporcional à quantidade de testosterona que tem no seu organismo.
 

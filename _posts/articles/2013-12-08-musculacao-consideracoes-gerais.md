@@ -5,9 +5,9 @@ permalink: /musculacao-consideracoes-gerais.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O treino com cargas superiores às habitualmente utilizadas tem co­mo objectivos o aumento da força e hipertrofia muscular.
+## O treino com cargas superiores às habitualmente utilizadas tem co­mo objectivos o aumento da força e hipertrofia muscular.
 
 Estes objectivos poderão ser utilizados sob várias perspectivas de acordo com as necessidades, vontade, do indivíduo em causa:
 

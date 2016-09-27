@@ -4,16 +4,16 @@ title: Sildenafil
 categories: supplements
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uso Ergogénico
+## Uso Ergogénico
 
 Vasodilatação, aumento da oxigenação e capacidade de exercício
 
-##Efeitos Adversos
+## Efeitos Adversos
 
 Cefaleia, rubor, dispepsia, visão turva
 
-##Comentários
+## Comentários
 
 Ainda não foi proibido em competição

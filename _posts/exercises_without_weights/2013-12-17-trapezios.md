@@ -5,9 +5,9 @@ permalink: /trapezios.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os músculos trapézios situam-se atrás no pescoço.
+## Os músculos trapézios situam-se atrás no pescoço.
 
 * de pé, puxar os ombros para cima, tentando tocar com a ponta dos ombros nas orelhas; aguentar 5 a 10 segundos e baixar; repetir 12 a 15 vezes;
 

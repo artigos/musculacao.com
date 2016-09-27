@@ -5,9 +5,9 @@ permalink: /exercicio-elevacao-lateral.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É um exercício destinado a músculos que actuam na articulação do ombro, especialmente a porção anterior do deltóide, o músculo subescapular, o músculo teres maior e o músculo grande dorsal.
+## É um exercício destinado a músculos que actuam na articulação do ombro, especialmente a porção anterior do deltóide, o músculo subescapular, o músculo teres maior e o músculo grande dorsal.
 
 ![Elevação lateral](assets/exercicio-abraco-invertido_clip_image002.gif)
 

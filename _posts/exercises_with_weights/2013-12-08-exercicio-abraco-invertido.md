@@ -5,9 +5,9 @@ permalink: /exercicio-abraco-invertido.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É um exercício destinado aos músculos de1tóide, trapézio e rom­bóides.
+## É um exercício destinado aos músculos de1tóide, trapézio e rom­bóides.
 
 * sentar-se num banco com o tronco inclinado para a frente e com as costas direitas; segurar dois pesos com os braços estendidos e suspensos;
 

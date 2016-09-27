@@ -5,9 +5,9 @@ permalink: /pontapes-de-costas-ajoelhado.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos da anca e das costas.
+## Tonificam principalmente os músculos da anca e das costas.
 
 * ajoelhar-se com o joelho esquerdo sobre um banco, colocar atrás a perna direita livre e segurar-se com as mãos no banco;
 

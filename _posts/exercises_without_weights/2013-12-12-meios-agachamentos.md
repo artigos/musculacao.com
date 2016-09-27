@@ -5,9 +5,9 @@ permalink: /meios-agachamentos.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos dos membros inferiores.
+## Tonificam principalmente os músculos dos membros inferiores.
 
 * colocar-se de pé, com os joelhos à largura dos ombros e braços cruzados sobre o tórax;
 

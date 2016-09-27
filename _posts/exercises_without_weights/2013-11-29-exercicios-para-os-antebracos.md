@@ -5,9 +5,9 @@ permalink: /exercicios-para-os-antebracos.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam os músculos dos antebraços proporcionando uma maior capacidade no agarrar.
+## Tonificam os músculos dos antebraços proporcionando uma maior capacidade no agarrar.
 
 ![Exercícios para os antebraços](assets/elevacoes-dos-dedos-dos-pes_clip_image002.gif)
 

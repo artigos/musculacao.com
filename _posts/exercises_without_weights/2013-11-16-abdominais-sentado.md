@@ -5,9 +5,9 @@ permalink: /abdominais-sentado.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificar os músculos abdominais inferiores.
+## Tonificar os músculos abdominais inferiores.
 
 * sentar sobre um banco e com as mãos atrás das nádegas agarrá-lo para equilíbrio;
 

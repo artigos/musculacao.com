@@ -5,9 +5,9 @@ permalink: /explosoes-dos-isquiotibiais.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Consistem em exercícios de potência efectuados pelos músculos isquiotibiais, situados na face posterior da coxa.
+## Consistem em exercícios de potência efectuados pelos músculos isquiotibiais, situados na face posterior da coxa.
 
 * deitar-se de barriga para baixo, com os braços esticados e colocados perpendicularmente ao tronco, e as pernas alinhadas; um elemento auxiliar coloca-se atrás dos pés do executante e põe as suas mãos a cerca de 30 cm acima dos calcanhares, que terão como função impedir a continuição do movimento das pernas do executante;
 

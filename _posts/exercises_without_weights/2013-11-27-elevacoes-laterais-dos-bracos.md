@@ -5,9 +5,9 @@ permalink: /elevacoes-laterais-dos-bracos.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos deltóides, que são os músculos em forma de triângulo situados na face lateral dos ombros.
+## Tonificam principalmente os músculos deltóides, que são os músculos em forma de triângulo situados na face lateral dos ombros.
 
 ![levações laterais dos braços](assets/abdominais-sentado_clip_image002.gif)
 

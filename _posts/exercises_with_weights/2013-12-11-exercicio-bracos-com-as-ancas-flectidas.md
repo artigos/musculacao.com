@@ -5,9 +5,9 @@ permalink: /exercicio-bracos-com-as-ancas-flectidas.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É um exercício destinado à tonificação dos músculos situados nas costas.
+## É um exercício destinado à tonificação dos músculos situados nas costas.
 
 * colocar-se de pé, com os dois pés separados cerca de 20 cm; agarrar um haltere com as mãos, dobrar ligeiramente os joelhos e colocar o tronco paralelo ao solo, sempre com as costas direitas;
 

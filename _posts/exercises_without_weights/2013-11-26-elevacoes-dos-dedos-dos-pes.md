@@ -5,9 +5,9 @@ permalink: /elevacoes-dos-dedos-dos-pes.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente o músculo tibial anterior, situado anteriormente na perna logo por fora da ubia, sendo bastante importante na estabilidade da perna e pé.
+## Tonificam principalmente o músculo tibial anterior, situado anteriormente na perna logo por fora da ubia, sendo bastante importante na estabilidade da perna e pé.
 
 * sentar-se numa cadeira com os pés no solo, situados cerca de 30 em à frente da vertical que passa pelos joelhos;
 

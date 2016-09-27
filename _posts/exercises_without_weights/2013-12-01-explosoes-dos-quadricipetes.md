@@ -5,9 +5,9 @@ permalink: /explosoes-dos-quadricipetes.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos anteriores e posteriores da coxa.
+## Tonificam principalmente os músculos anteriores e posteriores da coxa.
 
 * deitar-se no chão de costas e flectir os joelhos e ancas; um segundo elemento vai deixar-se cair, de tal modo que coloque o seu tórax sobre a planta dos pés do executante;
 

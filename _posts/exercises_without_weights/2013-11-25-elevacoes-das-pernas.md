@@ -5,7 +5,7 @@ permalink: /elevacoes-das-pernas.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 * Colocar-se de pé junto a uma cadeira, muro, etc., para apoio;
 

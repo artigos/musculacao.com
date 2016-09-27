@@ -5,9 +5,9 @@ permalink: /elevacao-dos-calcanhares.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Estimula os músculos da «barriga da perna» (solear e gastrocnémio), os quais aceleram a perna e estabilizam o joelho e o tornozelo
+## Estimula os músculos da «barriga da perna» (solear e gastrocnémio), os quais aceleram a perna e estabilizam o joelho e o tornozelo
 
 * colocar-se em frente a uma parede ou mesa para equilíbrio e com as porções anteriores dos pés sobre uma superfície elevada, por exemplo uma tábua com cerca de 2 a 5 cm de altura.
 

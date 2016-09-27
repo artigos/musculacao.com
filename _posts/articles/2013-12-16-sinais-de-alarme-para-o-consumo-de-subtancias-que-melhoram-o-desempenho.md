@@ -4,9 +4,9 @@ title: Sinais de alarme para o consumo de subtâncias que melhoram o desempenho
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Há substâncias que são potenciadoras do desempenho mas representam um risco para a saúde.
+## Há substâncias que são potenciadoras do desempenho mas representam um risco para a saúde.
 
 Estes são os factores que deve ter em consideração se está a tomar uma substância deste tipo:
 

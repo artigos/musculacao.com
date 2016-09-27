@@ -5,7 +5,7 @@ permalink: /fisiologia-muscular.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A fisiologia muscular é um mundo fantástico de fenómenos, de acções e reacções momentâneas e consentâneas. Um músculo, inserido nos pontos ósseos, não está nunca em repouso, mesmo durante o sono. Há uma permanente contracção ligeira e sustentada, que não é suficiente para produzir trabalho, identificada por todos como uma sensação ligeira de aperto a nível muscular. Esta propriedade inerente a todos os grupos musculares esqueléticos é o tónus muscular. Vimos já que o músculo, mesmo no estado a que vulgarmente se chama repouso, está sujeito a um pequeno estiramento, é possuidor de uma tensão passiva, o que faz com que o músculo tenha uma vontade permanente de se contrair para anular este ligeiro alongamento. É o que acontece quando o libertamos das suas inserções ósseas: o músculo adopta imediatamente um determinado comprimento de equilíbrio. Nesta situação não há nenhuma força externa a actuar nele e a sua força muscular é igual a zero. Se fizermos o alongamento do músculo, a tensão passiva (tensão existente num músculo em repouso, não sujeito, portanto, a contracção activa) cresce progressivamente, de início moderadamente e depois mais rapidamente a partir do comprimento de repouso. Este corresponde a cerca de 125 % do comprimento de equilíbrio.
 
@@ -28,7 +28,7 @@ Também para a velocidade de contracção muscular se poderia estabelecer uma re
 
 A velocidade de encurtamento muscular varia na razão inversa da tensão desenvolvida. Por exemplo, na contracção isométrica, em que a velocidade do movimento é mínima (igual a zero), a tensão que se obtém é máxima; mas, por outro lado, a velocidade do movimento só poderá ser máxima quando a tensão desenvolvida seja mínima, o que corresponde a uma ausência de carga. Deste conceito conclui-se que se o atleta pretender efectuar um treino de força deverá adoptar um esquema em que movimente cargas elevadas com velocidade de movimentos baixa. Mas se o atleta pretender gestos desportivos rápidos e explosivos terá de efectuar exercícios com velocidades elevadas e cargas proporcionalmente baixas. Estas últimas são os parâmetros do treino de potência.
 
-##Potência = Força x Velocidade
+## Potência = Força x Velocidade
 
 Desta fórmula conclui-se que a velocidade só poderá ser alta se a carga movimentada, ou seja, tensão desenvolvida, for baixa. Também se poderá concluir que para que o rendimento seja óptimo é necessário uma adaptação permanente entre a velocidade do movimento e a tensão desenvolvida. O ciclista é talvez o atleta que melhor sabe explicar este conceito. Nas subidas, para que a fatigabilidade seja menor, e porque a carga é maior e a velocidade de pedalar é necessariamente menor, ele utiliza um carreto mais leve, de maior diâmetro, com 21 dentes, o que origina uma menor resistência e uma maior velocidade no pedalar (cerca de 60-70 pedaladas/minuto) perante uma carga sentida como menor. Nas descidas acontece o contrário, e então ele vai utilizar um carreto mais leve, de menor diâmetro, o mais pequeno dos quais tem apenas 12 dentes.
 

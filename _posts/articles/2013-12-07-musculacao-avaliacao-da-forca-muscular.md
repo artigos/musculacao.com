@@ -5,9 +5,9 @@ permalink: /musculacao-avaliacao-da-forca-muscular.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Sendo a força muscular um componente da aptidão física, torna-se importante desenvolver meios que permitam quantificar a força de determinado músculo ou grupo muscular.
+## Sendo a força muscular um componente da aptidão física, torna-se importante desenvolver meios que permitam quantificar a força de determinado músculo ou grupo muscular.
 
 As informações recolhidas são importantes para os técnicos que têm de trabalhar com o atleta.
 
@@ -15,9 +15,9 @@ No início da época desportiva os atletas apresentam uma atrofia mus­cular rel
 
 A comparação da força entre vários atletas da mesma modalidade e relacioná-la com a respectiva performance, permite aos técnicos unu melhor análise da prestação desportiva de cada um dos atletas.
 
-##Avaliação da força muscular
+## Avaliação da força muscular
 
-###Técnica manual
+### Técnica manual
 
 Que no sistema de Lovett utiliza como critérios objectivos a força da gravidade e a resistência. A classificação é baseada:
 
@@ -27,7 +27,7 @@ Que no sistema de Lovett utiliza como critérios objectivos a força da gravidad
 
 Como facilmente se conclui, trata-se de uma técnica bastante subo jectiva, que dificilmente poderá ser útil na comparação entre os atletas e que enferma de algumas causas de erro, como sejam a experiência, a posição, etc.
 
-###Técnicas mecânicas
+### Técnicas mecânicas
 
 Vejamos alguns dos aparelhos/sistemas desenvolvidos:
 

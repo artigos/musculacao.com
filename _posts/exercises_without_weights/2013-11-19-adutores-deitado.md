@@ -5,9 +5,9 @@ permalink: /adutores-deitado.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São quatro músculos situados na face interna da raiz da coxa muito importantes para a estabilidade da anca e joelho durante a corrida.
+## São quatro músculos situados na face interna da raiz da coxa muito importantes para a estabilidade da anca e joelho durante a corrida.
 
 * deitar-se de lado com os membros inferiores alinhados com o tronco e flectir a perna de cima de modo a que o seu pé fique anteriormente à outra coxa;
 

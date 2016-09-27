@@ -5,9 +5,9 @@ permalink: /elevacoes-na-barra.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam os músculos bicípedes, tricípedes e grande dorsal.
+## Tonificam os músculos bicípedes, tricípedes e grande dorsal.
 
 * pendurar-se numa barra com as mãos afastadas e içar-se até que o queixo fique firme ao nível da barra; retomar lentamente à posição inicial;
 

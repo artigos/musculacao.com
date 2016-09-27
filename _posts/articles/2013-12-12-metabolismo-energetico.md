@@ -5,9 +5,9 @@ permalink: /metabolismo-energetico.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O fornecimento energético é fundamental para à contracção muscular. Isto acontece pela capacidade que o músculo tem de transformar energia química em energia mecânica.
+## O fornecimento energético é fundamental para à contracção muscular. Isto acontece pela capacidade que o músculo tem de transformar energia química em energia mecânica.
 
 Um elemento fundamental em todo este processo é o ATP (trifosfa­to de adenosina), que é um composto altamente energético capaz de fornecer energia para a contracção. Ele funciona como uma pilha dentro da célula, armazenando energia que a qualquer momento pode ser libertada de acordo com a fórmula:
 
@@ -17,7 +17,7 @@ O conteúdo de ATP intracelular (moles de ATP/grama de fibra muscular) proporcio
 
 Na prática a contracção muscular é bastante mais duradoura, o que significa que ao mesmo tempo que há degradação de ATP há também a sua re-síntese, a partir do ADP recentemente formado, através de dois processos.
 
-##Transfosforilação
+## Transfosforilação
 
 Como o seu nome indica, há transferência das ligações de fósforo previamente formadas a partir de moléculas de fosfocreatina e com intervenção da enzima creatinafosfoquínase (CPK).
 
@@ -31,7 +31,7 @@ Apesar de o conteúdo de fosfocreatina na célula (20-30 moles de PC/grama de te
 
 Então, a partir desta duração de esforço a célula vai obter o seu ATP através de outras vias.
 
-##Fosforilação
+## Fosforilação
 
 É um processo menos rápido do que o anterior, em que há criação de novas ligações de fósforo a partir da oxidação dos substratos energéticos, ou seja, dos hidratos de carbono e gorduras principalmente. Também as proteínas poderão ser usadas mas de um modo muito pouco representativo. Daqui resulta energia que se vai armazenando sob a forma de A TP, a tal pilha ou bateria intracelular.
 
@@ -39,7 +39,7 @@ Antes de abordarmos as vias fosforilativas é importante abordar o que acontece 
 
 A partir da formação do ácido pirúvico é a existência ou a ausência de oxigénio que vai determinar se o ácido pirúvico vai entrar na mitocôndria e se integre no ciclo do ácido cítrico (ou de Krebs ou ciclo dos ácidos tricarboxílicos), ou se permanece no citoplasma e seja metabolizado até ácido láctico, respectivamente.
 
-##Glicólise aeróbica ou fosforilação oxidativa
+## Glicólise aeróbica ou fosforilação oxidativa
 
 Consiste no desdobramento da glicoseaté aos produtos finais COz e H20, com libertação de energia, exigindo a presença de oxigénio. Esta via tem duas localizações na célula; uma inicial que acontece no citoplasma, com formação de ácido pirúvico, e outra no interior das mitocôndrias. Esta via implica, como é óbvio, uma oxigenação adequada.
 
@@ -47,7 +47,7 @@ Glicose + 2ATP + 6O2 -&gt; 6O2 + 6H2O + 40ATP
 
 Este tipo de metabolismo é altamente rendível (saldo positivo de 38 ATP), pois a partir de uma molécula de glicose obtêm-se numerosas moléculas de ATP. Deste modo é possível manter um esforço por largos períodos de tempo, sendo o esforço limitado pelas reservas dos nutrientes energéticos. É também chamado de aeróbico por depender da existência de oxigénio.
 
-##Glicólise anaeróbica
+## Glicólise anaeróbica
 
 Quando a oxigenação da célula muscular é inadequada e quando há necessidade de energia, a célula vai metabolizar o ácido pirúvico, na ausência de oxigénio e no citoplasma, formando ácido láctico e pouca energia.
 
@@ -59,7 +59,7 @@ O ácido láctico forma-se em grandes quantidades. Mais frequentemente ele passa
 Para se quantificar o ácido láctico formado, ou o componente anaeróbico de determinado esforço, pode-se ou determinar a lacticidemia (normal inferior a 1,2 mmol/l) ou determinar a diferença arteriovenosa da concentração sanguínea de lactato, no respectivo circuito vascular muscular, o que dá um resultado mais correcto.
 A glicose metabolizada por via aeróbica ou anaeróbica é o principal substrato energético utilizado em esforços intensos e de curta duração ou na fase inicial de qualquer esforço.
 
-##Oxidação das gorduras
+## Oxidação das gorduras
 
 As gorduras constituem um substrato energético importante. São armazenadas no organismo sob a forma de triglicerídeos, provêm ou da dieta ou da transformação de outros nutrientes (glicose, por exemplo). Por acção das enzirnas lípases sobre os depósitos de gordura há libertação de ácidos gordos que poderão ser utilizados directamente pela célu­la. Da B-oxidação dos ácidos gordos, na qual são retirados dois átomos de carbono em cada ciclo, origina-se uma grande quantidade de energia, tanto maior quanto maior o comprimento da cadeia. Por exemplo, se o ácido gordo tiver 6 átomos de carbono (como a glicose) há formação de 44 moles de ATP (na glicose eram 38); outro exemplo: o ácido palmítico que tem 16 átomos de carbono.
 
@@ -69,6 +69,6 @@ Como se vê desta reacção química, a presença de oxigénio é essencial para
 
 E a partir da oxidação das gorduras que se obtém a maior parte da energia consumida em repouso e em esforços prolongados e submáximos, o que tem imenso interesse prático para as pessoas que desejam perder peso à custa do consumo de gorduras. Os indivíduos treinados, e muito provavelmente devido a grandes adaptações hormonais, apresentam uma maior capacidade de mobilização de ácidos gordos durante o esforço. Os fundistas, por exemplo, têm como principal substrato energético as gorduras, enquanto os sprinters queimam principalmente glicose. Durante um jogo de squash gasta-se menos gordura do que durante um exercício aeróbico, como por exemplo a marcha. Esta tem bastante mais interesse em termos de emagrecimento do que o tal jogo de squash, apesar de este ser bastante exigente em termos de esforço físico.
 
-##Oxidação das proteínas (aminóácidos)
+## Oxidação das proteínas (aminóácidos)
 
 As proteínas são formadas a partir de aminoácidos e têm como principal função a sua actividade enzimática e suporte estrutural. Como fornecedoras de energia desempenham um papel muito pequeno. Calcula-se que a energia que se obtém a partir dos arninoácidos, quer em repouso quer em esforço, e em condições normais, é sempre inferior a 2% do total consumido.

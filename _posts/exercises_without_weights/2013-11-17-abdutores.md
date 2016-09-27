@@ -5,9 +5,9 @@ permalink: /abdutores.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos situados lateralmente à anca (tensor da fáscia lata e nadegueiro médio).
+## Tonificam principalmente os músculos situados lateralmente à anca (tensor da fáscia lata e nadegueiro médio).
 
 * deitar-se de lado, com a perna de cima alinhada com o tronco e com o joelho virado para a frente, e a de baixo com o joelho flectido a 90°;
 

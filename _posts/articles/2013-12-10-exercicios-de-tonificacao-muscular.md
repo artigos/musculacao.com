@@ -5,9 +5,9 @@ permalink: /exercicios-de-tonificacao-muscular.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Técnicas de execução
+## Técnicas de execução
 
 É possível obter e manter uma adequada força, e por vezes definição muscular, através da realização de exercícios de musculação sim­ples, que não envolvem grandes pormenores técnicos (apesar de os possuírem) e que abdicam de aparelhos ou máquinas de fabrico muito elaborado.
 

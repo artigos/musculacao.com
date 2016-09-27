@@ -5,11 +5,11 @@ permalink: /prescricao-de-treino-muscular.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Para que o treino muscular seja proveitoso e efectuado em seguran­ça é necessário ter em consideração vários aspectos e respeitar algumas regras.
+## Para que o treino muscular seja proveitoso e efectuado em seguran­ça é necessário ter em consideração vários aspectos e respeitar algumas regras.
 
-##Intensidade
+## Intensidade
 
 Indica a carga média absoluta movimentada em cada repetição du­rante a sessão de treino. Para melhor quantificar a carga, ela deverá ser expressa como a percentagem da carga máxima que um indivíduo pode levantar uma vez mas que já não consegue levantar na vez seguinte ­uma repetição máxima (lRM). E é assim que, por exemplo, o maior peso que o indivíduo consegue movimentar 5 vezes mas que já não con­segue movimentar pela sexta vez é chamado (5RM).
 
@@ -19,7 +19,7 @@ O atleta executa 3 séries com apenas 5 repetições e com uma carga igual a 80 
 
 Intensidade = 80 / 100 = 80% RM ou Intensidade = 80 Kg.
 
-##Volume do exercício
+## Volume do exercício
 
 Indica a quantidade de trabalho realizado durante os exercícios de levantamento. O trabalho realizado depende da força aplicada e da dis­tância a que a carga é movimentada.
 
@@ -39,34 +39,34 @@ Continuando o exemplo anterior, teremos:
 
 Um grande volume do exercício, utilizando intensidades moderadas, (70%-80% de 1RM) ou elevadas (85%-90% de 1RM), origina hipertrofia muscular e é um esquema utilizado pelos atletas de culturismo, por exemplo.
 
-##Número de séries
+## Número de séries
 
 Geralmente varia entre 3 e 6 séries por cada sessão de treino, mas inicialmente e durante as primeiras 6 a 10 semanas, 1 a 2 séries será provavelmente o mais adequado para aqueles que se iniciam nesta acti­vidade, pois permite não só melhorar progressivamente o estado de treino como também evitar o aparecimento das tão desagradáveis dores mus­culares. Posteriormente será mais adequado utilizar várias séries na mes­ma sessão, já que são mais eficazes para o desenvolvimento de força, de endurance e de potência muscular.
 
-##Número de repetições por série
+## Número de repetições por série
 
-O número de repetições máximas efectuadas por série irá influenciar o tipo de desenvolvimento muscular. Sabe-se que poucas repetições EOr série (2 a 6) origina ganhos principalmente na força muscular. A medida que se eleva o número de repetições vai havendo um aumento## progressivo no desenvolvimento da endurance muscular, com diminuição progressiva no ganho em força. Um atleta que realize 10 ou mais repetições por série estará a privilegiar o treino de resistência muscular. ##
+O número de repetições máximas efectuadas por série irá influenciar o tipo de desenvolvimento muscular. Sabe-se que poucas repetições EOr série (2 a 6) origina ganhos principalmente na força muscular. A medida que se eleva o número de repetições vai havendo um aumento##  progressivo no desenvolvimento da endurance muscular, com diminuição progressiva no ganho em força. Um atleta que realize 10 ou mais repetições por série estará a privilegiar o treino de resistência muscular. ## 
 
 Parece, no entanto, que um treino contínuo com cargas extremamente elevadas (IRM, por exemplo) induz um menor ganho em força do que um treino com 4 a 6 repetições máximas por série.
 
-##Frequência
+## Frequência
 
 Refere-se ao número de sessões por semana e depende em alguma medida da experiência prévia do indivíduo, bem como da leitura que ele faz do seu corpo. Considera-se que 3 sessões semanais para cada grupo muscular são suficientes, intercaladas por períodos adequados de repouso. Todavia, este valor poderá ser exagerado por aqueles que se iniciam nesta prática, o que faz com que haja dores musculares e fadiga aquando da nova sessão de treino. Nestes casos é aconselhável diminuir o número de sessões, principalmente nas primeiras semanas. Por outro lado, atletas bem treinados e experimentados, como por exemplo os hal­terofilistas, os atletas do culturismo, poderão suportar 6 sessões por se­mana. O que eles habitualmente fazem é adoptar exercícios diferentes para o mesmo grupo muscular ou, então, treinar diferentes grupos mus­culares em cada dia de treino.
 
-##Períodos de repouso
+## Períodos de repouso
 
 Os períodos de repouso dependem do esforço efectuado, mas no ca­so concreto do treino muscular a duração do período de repouso depen­de da finalidade a atingir. Se se pretende um treino cardiovascular, de características aeróbicas, para além de se adoptarem várias repetições com cargas baixas (40%-60% de IRM), os períodos de repouso deve­rão ser sempre inferiores a 30 segundos, para que durante os mesmos a frequência cardíaca não baixe demasiado. Mas se o treino se destina a desenvolverendurance muscular dever-se-á usar cargas moderadas, 70%-80% de IRM, várias repetições por série e períodos de repouso entre as séries inferiores a um minuto. Neste tipo de exercício, de ca­racterísticas anaeróbicas, formam-se grandes quantidades de ácido lác­tico. Finalmente, se se pretende desenvolver uma força máxima, para além de se utilizar cargas elevadas, 85%-90% de IRM, em séries com poucas repetições, dever-se-á adoptar períodos de repouso com dura­ção igual a 2-3 minutos, pois os estudos referem ser o tempo necessário para a reposição dos stocks fosforados.
 
-##Exercício de resistência progressiva
+## Exercício de resistência progressiva
 
 Este conceito é de primordial importância, porquanto permite uma adaptação progressiva ao esforço, ao mesmo tempo que previne o apa­recimento de situações incapacitantes. Ele adopta um aumento progres­sivo na intensidade e no volume do exercício e baseia-se no princípio da sobrecarga, o qual refere que para haver ganhos na força e potência o músculo deverá ser sobrecarregado de modo a realizar trabalho pró­ximo das suas capacidades máximas. Se a intensidade é prescrita como uma percentagem de IRM dever-se-á, periodicamente, determinar o valor deste RM, para que haja uma permanente actualização das cargas a uti­lizar durante o exercício, porquanto à medida que a força/potência au­menta também a RM aumenta. Como seria de esperar, os iniciadores nesta prática desportiva deverão começar com programas que incluam intensidades e volumes mais baixos e, progressivamente, ir aumentan­do aquelas variáveis, à medida que a sua força também aumenta.
 
-##Amplitude do movimento
+## Amplitude do movimento
 
-Os exercícios de tonificação muscular deverão ser efectuados ao longo de toda a amplitude do movimento permitido pelas articulações e pela posição do corpo envolvida no exercício. Deste modo assegura-se que os ganhos em força/potência aconteçam em todos os ângulos articulares## e evita-se que a flexibilidade seja afectada de um modo negativo. Em relação à flexibilidade há autores que referem que o treino de força não tem influência sobre a mesma desde que o treino seja efectuado ao lon­go de toda a amplitude articular e desde que o treino incida quer nos músculos agonistas quer nos antagonistas da articulação em causa. ##
+Os exercícios de tonificação muscular deverão ser efectuados ao longo de toda a amplitude do movimento permitido pelas articulações e pela posição do corpo envolvida no exercício. Deste modo assegura-se que os ganhos em força/potência aconteçam em todos os ângulos articulares##  e evita-se que a flexibilidade seja afectada de um modo negativo. Em relação à flexibilidade há autores que referem que o treino de força não tem influência sobre a mesma desde que o treino seja efectuado ao lon­go de toda a amplitude articular e desde que o treino incida quer nos músculos agonistas quer nos antagonistas da articulação em causa. ## 
 Se eventualmente o treino é efectuado estaticamente num determi­nado ângulo articular, o ganho em força apenas acontecerá numa am­plitude angular muito próxima do ângulo de treino, o que não é de modo algum correcto.
 
-##Forma adequada
+## Forma adequada
 
 A realização incorrecta dos exercícios poderá ter três causas:
 
@@ -81,13 +81,13 @@ Um exemplo que se pode apontar é o que acontece com a realização dos chamados
 
 b) Prevenção de lesões. O exemplo mais esclarecedor acontece com o levantamento dos pesos, em que o movimento deverá ser efectuado com as costas direitas, ou seja, com a coluna vertebral em posição vertical, pois se for efectuado com a coluna arqueada irá sobrecarregar a coluna lombar, dando origem a lombalgias e a hérnias discais.
 
-##Respiração
+## Respiração
 
 A suspensão da ventilação pulmonar com o aumento concomitante da pressão intra-abdominal (manobra de Valsalva) aquando da realiza­ção do exercício de força não é aconselhável, pois esta atitude leva a um aumento da tensão arterial, sistólica e diastólica, e a uma diminuição do retorno venoso ao coração.
 
 A hipertensão arterial temporariamente induzida por este tipo de es­forço vai constituir uma sobrecarga de pressão sobre o ventrículo es­querdo, podendo haver alguns ventrículos que não suportem esta situação, acontecendo consequências desagradáveis. Esta é a principal razão que leva ao aconselhamento da norma de expirar durante a elevação do peso e de inspirar durante a descida do mesmo, a ser adoptada principalmen­te pelos atletas de recreação.
 
-##Spotter
+## Spotter
 
 O treino de força muscular envolve cargas progressivamente maiores atingindo valores bastante elevados. Os pormenores técnicos da execução dos movimentos deverão ser respeitados. Estes dois juízos constituem duas boas razões para a presença permanente de um segundo elemento junto do atleta executante. Como é de esperar, o treino muscular em aparelhos/máquinas de musculação elimina esta necessidade, sendo a sua presença mais importante quando os exerCÍcios são realizados com pesos ou halteres.
 

@@ -5,9 +5,9 @@ permalink: /flexoes-dos-bracos.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos deltóides, peitorais e tricípetes.
+## Tonificam principalmente os músculos deltóides, peitorais e tricípetes.
 
 * deitar-se de barriga para baixo, corpo direito, pés e joelhos unidos e mãos colocadas ao lado dos ombros;
 

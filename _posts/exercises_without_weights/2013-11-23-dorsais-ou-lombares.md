@@ -5,9 +5,9 @@ permalink: /dorsais-ou-lombares.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos lombares (erector da espinha).
+## Tonificam principalmente os músculos lombares (erector da espinha).
 
 ![Dorsais ou lombares](assets/adutores-de-pe_clip_image002.gif)
 

@@ -5,9 +5,9 @@ permalink: /exercicio-flexao-dos-punhos-atras-das-costas.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São exercícios destinados ao m. flexores do punho * m. flexor radial e m. flexor cubitaI do earpo, situados na face anterior do antebraço.
+## São exercícios destinados ao m. flexores do punho * m. flexor radial e m. flexor cubitaI do earpo, situados na face anterior do antebraço.
 
 ![Flexão dos punhos atrás das costas](assets/exercicio-elevacao-lateral_clip_image002.gif)
 

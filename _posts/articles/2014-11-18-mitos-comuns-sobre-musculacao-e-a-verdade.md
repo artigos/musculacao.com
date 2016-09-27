@@ -4,13 +4,13 @@ title: Mitos comuns sobre musculação e a verdade
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Mito: A dor muscular resultante do exercício físico é o que provoca hipertrofia muscular.
+## Mito: A dor muscular resultante do exercício físico é o que provoca hipertrofia muscular.
  
 Dor muscular: O que provoca a hipertrofia muscular são as HORMONAS, e a produção das hormonas corretas para o crescimento muscular depende da globalidade do seu estilo de vida enquanto fisiculturista, incluindo alimentação adequada e exercício contínuos. A dor muscular NÃO é um indicador de que os músculos estão a desenvolver-se, mas sim um indicador de que têm capacidade para se desenvolver e reparar para se adaptarem à tensão que lhes foi aplicada, e, mais uma vez, isto só pode vir de hormonas próprias, se seguir os artigos publicados neste site não deve ter dificuldade em ganhar músculo e perder gordura. A dor muscular é normal, especialmente se não tiver trabalhado um grupo de músculos particular durante algum tempo. Para além disso, a dor muscular não deve ser uma preocupação, pode ficar mais forte sem sequer sentir dor.
  
-##Mito: Os benefícios reais dos seus treinos, relativamente a perda de gordura, são as calorias queimadas durante o treino (especialmente cárdio).
+## Mito: Os benefícios reais dos seus treinos, relativamente a perda de gordura, são as calorias queimadas durante o treino (especialmente cárdio).
  
 NUNCA preste atenção a isto, não há resultados provenientes de calorias queimadas durante o exercício.
  
@@ -26,7 +26,7 @@ Sprints rápidos (treinos divididos e wind sprints) trazem muito mais benefício
  
 O seu corpo vai ter um aspeto incrível se simplesmente aumentar a intensidade dos seus treinos e se deixar de preocupar com as calorias queimadas!
  
-##Mito: Para promover uma definição máxima dos músculos (especialmente para concurso) só precisa de fazer algumas sequências com pesos pesados e low reps.
+## Mito: Para promover uma definição máxima dos músculos (especialmente para concurso) só precisa de fazer algumas sequências com pesos pesados e low reps.
  
 Apesar desta afirmação ser boa no que diz respeito a hipertrofia, não é, de facto, a melhor forma de trabalhar a definição em grande escala. Então, o que funciona? High reps (mais de 10 repetições) e mais sequências, tornam os músculos definidos, ao despertar uma hormona que aumenta o armazenamento de glicogénio muscular, fazendo com que os seus músculos pareçam mesmo “insuflados” ou cheios de hidratos de carbono, tornando os seus músculos mais duros e aparentemente maiores do que realmente são. Outro aspeto positivo das repetições, é que melhoram a sua forma, e aumentam a sua resistência. Além disso, são uma perda de tempo, uma vez que high reps não fazem tanto um fisiculturista como low reps. Pesos pesados (menos de 8 reps até falência) accionam hormonas que aumentam a hipertrofia muscular. Mas, se quer mesmo preencher os seus músculos com glicogénio (hidratos de carbono armazenados nos músculos), então high reps  e mais sequências vão fazê-lo por si.
  
@@ -50,7 +50,7 @@ Aqui tem mais umas dicas se está preocupado com uma maior definição muscular:
 * Se saltar a parte de não fazer high reps no processo de recarregamento de hidratos de carbono, os seus músculos vão parecer mais flácidos em vez que “cheios e fortes”.
 * Em tempos, também achei que as high reps eram inúteis, mas podem ser feitas com fins estratégicos para o tornar mais “cheio”.
 
-##Mito: Fazer cardio logo de manhã é a melhor maneira de perder gordura a partir de exercícios cardio.
+## Mito: Fazer cardio logo de manhã é a melhor maneira de perder gordura a partir de exercícios cardio.
 
 Este deve ser o maior mito que anda por aí! Faça cardio quando sente que tem mais vontade de fazê-lo (que para mim é à tarde). Para além disso, faça com que os seus exercícios de cardio sejam de curta duração e intensos. Não tem que o fazer com o estômago vazio, coma uma refeição com proteína/gordura antes de o fazer, isso permite que a GH (hormona do crescimento) seja secretada mais eficientemente enquanto o faz, e depois coma hidratos de carbono. Lembre-se que a hormona insulina impede que a GH seja secretada, portanto comer muitos hidratos de carbono (especialmente hidratos de carbono simples), antes dum exercício intenso não é inteligente.
 
@@ -58,7 +58,7 @@ Os benefícios da perda de gordura que terá com o cardio são benefícios hormo
 
 Lembre-se, que queimar gordura durante o cardio não é o benefício real da perda de gordura que obtém do cardio, é tudo acerca das adaptações ao seu ambiente, e tudo isto é feito por hormonas.
 
-## Mito: Para ficar realmente grande, tem que fazer uma dieta super rica em calorias.
+##  Mito: Para ficar realmente grande, tem que fazer uma dieta super rica em calorias.
 
 Bem, isto é verdade; vai ficar enorme se fizer uma dieta de teor calórico super alto, mas vai parecer o irmão gémeo do Homem Michelin. No entanto, se quer ficar grande, mas com uma percentagem de gordura reduzida, então as dietas super ricas em calorias, provavelmente, não são para si, a menos que seja uma daquelas poucas pessoas com um metabolismo tão rápido que pode queimar essas calorias em vez de depositá-las como gordura. Infelizmente, os estudos mostram que, na maioria das pessoas, cerca de 65% dos novos ganhos de matéria provocados por uma dieta de alto teor calórico é composto por gordura! Dos restantes 35%, aproximadamente 15% de aumento de volume consiste em fluído intracelular, sobrando uma percentagem muito modesta atribuível ao aumento da massa muscular magra.
 
@@ -66,7 +66,7 @@ Deve comer para crescer, não para ganhar peso extra de matéria "gorda". Uma qu
 
 Fique longe das dietas de teor calórico super alto, a menos que seja uma aberração genética, ou caso seja terrivelmente magro e não se importa de ter alguma gordura.
 
-##Mito: Enquanto tenta ganhar massa muscular, é aconselhável cortar no cardio fazendo treino de baixa intensidade com longa duração para ajudar a perder a gordura, e ainda ser capaz de ganhar massa muscular.
+## Mito: Enquanto tenta ganhar massa muscular, é aconselhável cortar no cardio fazendo treino de baixa intensidade com longa duração para ajudar a perder a gordura, e ainda ser capaz de ganhar massa muscular.
 
 Embora seja verdade que pode ganhar massa muscular mais rapidamente ao cortar no cardio, não é verdade que simplesmente diminuir a intensidade dos exercícios de cardio para ajudar a controlar a sua gordura, é a melhor maneira de ficar magro, enquanto constrói massa muscular.
 
@@ -76,7 +76,7 @@ Uma vez, talvez duas vezes por semana (ou por exemplo uma vez a cada 5 dias ou m
 
 O segredo aqui é não fazer um treino bastante aeróbico, mas sim anaeróbico. Isto permite que as suas hormonas mantenham o anabolismo para o tecido muscular, e ajudá-lo a emagrecer. Eu tenho feito isto há anos e funciona.
 
-## Mito: Quanto mais faz exercício, mais os músculos aumentarão.
+##  Mito: Quanto mais faz exercício, mais os músculos aumentarão.
 
 Não, não, não. Este é um dos mitos mais prejudiciais que já emergiram e mostraram a sua face. 95% dos profissionais irão dizer-lhe que o maior erro da musculação jamais feito é o excesso de treino--e isto aconteceu até mesmo quando tomavam esteroides. Imagine como é fácil para um atleta natural treinar em demasia! Quando exercita os seus músculos com demasiada frequência para se recuperarem, o resultado final é não aumentarem e talvez até mesmo diminuírem. Ao exercitar-se todos os dias, está realmente a fazer a quantidade adequada de intensidade, vai conduzi-lo a um excesso de exercitação. Uma parte do corpo, trabalhada devidamente, ou seja, trabalhada para completar, a falha muscular total que recrutou tantas fibras musculares quanto seja fisiologicamente possível, pode levar 5-10 dias para curar.
 
@@ -84,7 +84,7 @@ Indo mais além, mesmo trabalhar uma parte do corpo diferente nos próximos dias
 
 Aprenda a aceitar o descanso como uma parte valiosa do seu treino. Provavelmente deve passar tantos dias fora do ginásio como no ginásio.
 
-## Mito: Não consigo aumentar a intensidade do meu supino, então vou ter que trabalhar os peitorais mais vezes com mais repetições de exercícios.
+##  Mito: Não consigo aumentar a intensidade do meu supino, então vou ter que trabalhar os peitorais mais vezes com mais repetições de exercícios.
 
 Se não consegue sair do mesmo sítio, não culpe o seu treino, precisa de observar outros padrões de estilo de vida que vão aumentar a intensidade do supino. Se estiver a fazer cardio, reduza ou suspenda-o. Verifique se está a comer comida suficiente para continuar a crescer, e certifique-se de que come pelo menos cinco refeições equilibradas por dia. A principal razão disto acontecer provém geralmente da sua ingestão calórica diária. Ao aumentar simplesmente um pouco o seu consumo de calorias diário, vai surpreender-se ao ver que consegue aumentar de intensidade semanalmente com o seu supino (ou quaisquer elevações de pesos que faça). Além disso, lembre-se de beber muita água, descansar bastante e aumente a sua intensidade o melhor que conseguir.
 
@@ -98,7 +98,7 @@ Sobre o seu treino, certifique-se que tem bastantes dias de descanso entre os tr
 Faça entre 4 a 8 repetições.
 
 
-##Mito: A melhor forma de obter um sex-pack é fazer muitos abdominais por dia
+## Mito: A melhor forma de obter um sex-pack é fazer muitos abdominais por dia
 
 Não existe nenhuma forma de perder gordura de forma localizada. Fazer milhares e milhares e abdominais não vai de todo fazer com que fique com um six-pack, o que vai fazer é que fique com um abdominal mais firme... e até pode mesmo aumentar o volume abdominal. Isto porque ao realizar abdominais vai estar a fortalecer os músculos abdominais e a aumentar a sua dimensão, mas não estará a perder gordura a nível abdominal.
 

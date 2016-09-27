@@ -4,17 +4,17 @@ title: Hormona de crescimento
 categories: supplements
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uso Ergogénico
+## Uso Ergogénico
 
 Aumento da síntese proteica de massa muscular sem os efeitos androgénicos indesejáveis, diminuição da gordura corporal
 
-##Efeitos Adversos
+## Efeitos Adversos
 
 Resistência à insulina, encerramento prematuro das epífises, acromegália, hipertensão cardiomegália
 
-##Comentários
+## Comentários
 
 * Evidência insuficiente sobre a melhoria do desempenho atlético
 * Cara

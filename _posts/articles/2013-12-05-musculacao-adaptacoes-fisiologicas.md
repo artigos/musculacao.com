@@ -5,9 +5,9 @@ permalink: /musculacao-adaptacoes-fisiologicas.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Um atleta, bem ou mal treinado, sujeito a cargas superiores aquelas que diariamente utiliza, vai sofrer uma adaptação muscular traduzida por um aumento de força e, eventualmente, por um aumento do volu­me (hipertrofia muscular).
+## Um atleta, bem ou mal treinado, sujeito a cargas superiores aquelas que diariamente utiliza, vai sofrer uma adaptação muscular traduzida por um aumento de força e, eventualmente, por um aumento do volu­me (hipertrofia muscular).
 
 Esta hipertrofia das fibras musculares existentes deve-se a um aumento da captação de aminoácidos e subsequente síntese proteica. É atribuída a um maior número de ftlamentos de actina e de rniosina (miofilamentos), o que origina uma área transversal muscular maior, principalmente nas fases mais avançadas do treino. Parece ser a tensão. que se desenvolve dentro do músculo, quando sujeito a uma carga ele­vada, o estímulo para esta hipertrofia.
 

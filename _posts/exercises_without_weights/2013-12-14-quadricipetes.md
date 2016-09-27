@@ -5,9 +5,9 @@ permalink: /quadricipetes.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos situados na face anterior da coxa que são extremamente importantes para a estabilidade da articulação do joelho.
+## Tonificam principalmente os músculos situados na face anterior da coxa que são extremamente importantes para a estabilidade da articulação do joelho.
 
 * sentar-se no chão com as pernas estendidas e colocar uma pequena lata ou toalha enrolada sob o joelho da perna que vai efectuar o exercício;
 

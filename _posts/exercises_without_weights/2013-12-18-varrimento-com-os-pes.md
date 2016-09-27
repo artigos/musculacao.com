@@ -5,9 +5,9 @@ permalink: /musculacao-adaptacoes-cardiovasculares.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente o músculo tibial anterior e os músculos tibial posterior e peroniais, responsáveis pela estabilidade do tornozelo, evitando pronações e supinações excessivas.
+## Tonificam principalmente o músculo tibial anterior e os músculos tibial posterior e peroniais, responsáveis pela estabilidade do tornozelo, evitando pronações e supinações excessivas.
 
 ![Varrimento com os pés](assets/varrimento-com-os-pes.gif)
 

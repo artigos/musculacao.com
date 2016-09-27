@@ -5,9 +5,9 @@ permalink: /cavalitas.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São exercícios destinados a tonificar os músculos da barriga das pernas.
+## São exercícios destinados a tonificar os músculos da barriga das pernas.
 
 * colocar-se de pé e colocar um 2. o elemento às «cavalitas»; manter a coluna sempre direita;
 

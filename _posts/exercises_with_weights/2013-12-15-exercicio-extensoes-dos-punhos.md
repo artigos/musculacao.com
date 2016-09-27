@@ -5,9 +5,9 @@ permalink: /exercicio-extensoes-dos-punhos.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São exercícios para os músculos extensor radial do carpo (largo e curto) e extensor cubital do cargo.
+## São exercícios para os músculos extensor radial do carpo (largo e curto) e extensor cubital do cargo.
 
 ![Extensões dos punhos](assets/exercicio-exercicio-para-o-torax-superior_clip_image002.gif)
 

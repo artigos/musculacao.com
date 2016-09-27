@@ -5,9 +5,9 @@ permalink: /flexoes-e-extensoes-dos-dedos-dos-pes.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos intrínsecos dos pés.
+## Tonificam principalmente os músculos intrínsecos dos pés.
 
 * sentar-se numa cadeira, com os pés separados um do outro cerca de 20-25 cm e com os calcanhares colocados na vertical que passa pelos joelhos; colocar uma toalha em frente dos pés com os dedos a sobrepor o seu limite mais proxima1;
 

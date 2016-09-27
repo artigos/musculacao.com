@@ -5,9 +5,9 @@ permalink: /isquiotibiais-de-pe.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam os músculos situados na face posterior da coxa e joe­lho, os quais têm como função flectir os joelhos e evitar as hiperextensões dos mesmos
+## Tonificam os músculos situados na face posterior da coxa e joe­lho, os quais têm como função flectir os joelhos e evitar as hiperextensões dos mesmos
 
 * colocar-se de pé em frente a uma mesa com as mãos sobre a mesma para melhorar o equilíbrio, e manter sempre o corpo alinhado;
 

@@ -5,9 +5,9 @@ permalink: /flexoes-laterais-do-tronco.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam os músculos oblíquos do abdómen, situados na sua face lateral, e constituem um complemento aos abdominais retos.
+## Tonificam os músculos oblíquos do abdómen, situados na sua face lateral, e constituem um complemento aos abdominais retos.
 
 * colocar-se com os pés à largura dos ombros, colocar a mão esquerda na anca esquerda e deixar a mão direita pendente ao longo do corpo;
 

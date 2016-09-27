@@ -5,16 +5,16 @@ permalink: /composicao-dos-miofilamentos.html
 categories: articles
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Filamentos grossos
+## Filamentos grossos
 
 São constituídos essencialmente por grandes proteínas, de peso mo­lecular aproximadamente igual a 500 000, e são as moléculas de miosina. O microscópio electr6nico permite visualizar duas cadeias polipeptídicas, enroladas entre si, e uma porção terminal, globosa, cha­mada cabeça, que formará as pontes transversais entre os filamentos finos e os grossos.
 
 Por digestão enzimática com enzimas hidrolíticas, particularmente
 a tripsina e a papaína, é possível quebrar estas moléculas em fragmentos menores. A porção correspondente à cabeça é chamada meromiosina pesada, e a restante porção toma o nome de meromiosina leve. A papaína ainda consegue subdividir a meromissina pesada nos frag­mentos SI e S2' O fragmento SI tem uma grande actividade ATPásica.
 
-##Filamentos finos
+## Filamentos finos
 
 São constituídos principalmente por uma proteína chamada actina.
 

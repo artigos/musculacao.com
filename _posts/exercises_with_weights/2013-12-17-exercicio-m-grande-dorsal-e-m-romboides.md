@@ -5,9 +5,9 @@ permalink: /exercicio-m-grande-dorsal-e-m-romboides.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São músculos situados nas costas, o primeiro situado inferior e lateralmente e o segundo entre as omoplatas; os m. rombóides são músculos fixadores da omoplata, aumentando a estabilidade da articulação do ombro.
+## São músculos situados nas costas, o primeiro situado inferior e lateralmente e o segundo entre as omoplatas; os m. rombóides são músculos fixadores da omoplata, aumentando a estabilidade da articulação do ombro.
 
 * agarrar num peso com a mão direita e manter o respectivo braço estendido; colocar o joelho esquerdo e a mão esquerda sobre um banco e o pé direito no chão;
 

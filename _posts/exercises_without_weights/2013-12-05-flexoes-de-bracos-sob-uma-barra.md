@@ -5,9 +5,9 @@ permalink: /flexoes-de-bracos-sob-uma-barra.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tonificam principalmente os músculos deltóides, peitorais e tricípetes.
+## Tonificam principalmente os músculos deltóides, peitorais e tricípetes.
 
 * Colocar uma barra (vara, cano de água, etc.) sobre duas cadeiras separadas por uma distância de 60-70 cm;
 

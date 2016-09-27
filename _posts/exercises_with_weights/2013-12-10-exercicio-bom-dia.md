@@ -5,9 +5,9 @@ permalink: /exercicio-bom-dia.html
 categories: exercises_with_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É um exercício destinado ao músculo erector da espinha, situado nas costas ao longo da coluna.
+## É um exercício destinado ao músculo erector da espinha, situado nas costas ao longo da coluna.
 
 * colocar-se de pé com os pés separados cerca de 20 cm, colocar um haltere sobre as costas, mantendo-as direitas, assim como os mem­bros inferiores;
 

@@ -4,16 +4,16 @@ title: Eritropoietina (EPO)
 categories: supplements
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uso Ergogénico
+## Uso Ergogénico
 
 Aumento da capacidade de transporte de oxigénio pelo sangue
 
-##Efeitos Adversos
+## Efeitos Adversos
 
 Embolismo pulmonar, EAM, AVC ([Acidente Vascular Cerebral](http://acidentevascularcerebral.com/)), desenvolvimento de anticorpos
 
-##Comentários
+## Comentários
 
 * Proibida em todas as competições

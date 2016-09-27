@@ -5,9 +5,9 @@ permalink: /extensoes-do-pescoco.html
 categories: exercises_without_weights
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Estes exercícios destinam-se a tonificar os músculos posteriores do pescoço, aumentando deste modo a estabilidade da coluna vertebral cervical.
+## Estes exercícios destinam-se a tonificar os músculos posteriores do pescoço, aumentando deste modo a estabilidade da coluna vertebral cervical.
 
 * colocar-se com os joelhos e mãos simultaneamente sobre o chão e com o pescoço flectido; um acompanhante coloca as duas mãos sobre a região occipital da cabeça;
 
