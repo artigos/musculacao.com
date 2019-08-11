@@ -40,4 +40,4 @@ As bebidas alcoólicas são inimigas de quem quer ganhar massa muscular, por iss
 
 Se realmente quiser começar a ter uma dieta para ganhar massa muscular é aconselhável recorrer a um especialista para que este lhe receite a melhor dieta para si, com a dieta perfeita, treinando com vontade e força de vontade conseguirá o corpo que tanto deseja.
 
-Finalmente, um recurso online com bastantes dicas sobre dieta é o [www.dietas.pt](http://www.dietas.pt), consulte!
+Finalmente, um recurso online com bastantes dicas sobre dieta é o [www.dietas.pt](//www.dietas.pt), consulte!

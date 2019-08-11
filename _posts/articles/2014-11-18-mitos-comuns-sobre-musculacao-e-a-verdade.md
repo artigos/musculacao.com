@@ -102,4 +102,4 @@ Faça entre 4 a 8 repetições.
 
 Não existe nenhuma forma de perder gordura de forma localizada. Fazer milhares e milhares e abdominais não vai de todo fazer com que fique com um six-pack, o que vai fazer é que fique com um abdominal mais firme... e até pode mesmo aumentar o volume abdominal. Isto porque ao realizar abdominais vai estar a fortalecer os músculos abdominais e a aumentar a sua dimensão, mas não estará a perder gordura a nível abdominal.
 
-Visite o [www.abdominais.com](http://www.abdominais.com) para saber mais acerca de como obter um abdominal definido.
+Visite o [www.abdominais.com](//www.abdominais.com) para saber mais acerca de como obter um abdominal definido.

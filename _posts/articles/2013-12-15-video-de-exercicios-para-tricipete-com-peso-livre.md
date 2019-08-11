@@ -8,4 +8,4 @@ categories: articles
 
 ## Vídeo onde Luís Ramalho demonstra quatro exercícios para o tricípete com peso livre.
 
-<iframe width="515" height="323" src="http://www.youtube.com/embed/dyaZvjVfKvc?wmode=transparent" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="515" height="323" src="//www.youtube.com/embed/dyaZvjVfKvc?wmode=transparent" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
